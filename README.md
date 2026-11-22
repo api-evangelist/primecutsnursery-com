@@ -1,4 +1,4 @@
-# primecutsnursery-com
+# Prime Cuts Nursery
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,129 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-primecutsnursery-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://primecutsnursery.com/
+Prime Cuts Nursery is a family‑owned cannabis nursery and seed bank based in Sonoma County, California. Operating a six‑thousand‑square‑foot indoor facility, they produce breeder‑certified genetics and premium cannabis clones for growers statewide. With over twenty years of industry experience, the company offers a wide catalog of strains, live inventory, and wholesale services, emphasizing high‑quality, HLVD‑tested clones and personalized customer support.
+
+**Areas:** Cannabis · Nursery · Clones · California · Agriculture · Company
+
+## Prime Cuts Nursery on APIs.io
+
+Everything profiled for Prime Cuts Nursery is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/primecutsnursery-com/](https://apis.io/providers/primecutsnursery-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [Prime Cuts Nursery Articles API](https://apis.io/apis/primecutsnursery-com/primecutsnursery-com-articles-api/) — Guides, authority pages, regional pages
+- [Prime Cuts Nursery Breeders API](https://apis.io/apis/primecutsnursery-com/primecutsnursery-com-breeders-api/) — Breeder registry and attribution
+- [Prime Cuts Nursery Business API](https://apis.io/apis/primecutsnursery-com/primecutsnursery-com-business-api/) — Who we are, where we are, how to order
+- [Prime Cuts Nursery Inventory API](https://apis.io/apis/primecutsnursery-com/primecutsnursery-com-inventory-api/) — Live clone / teen availability
+- [Prime Cuts Nursery Search API](https://apis.io/apis/primecutsnursery-com/primecutsnursery-com-search-api/) — Cross-entity lookup
+- [Prime Cuts Nursery Strains API](https://apis.io/apis/primecutsnursery-com/primecutsnursery-com-strains-api/) — Cultivar encyclopedia and menu
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Prime Cuts Nursery Agentic Access](https://apis.io/agentic-access/primecutsnursery-com/primecutsnursery-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [BreederDetail](https://apis.io/schemas/primecutsnursery-com/primecutsnursery-com-breeder-detail/)
+- [Business](https://apis.io/schemas/primecutsnursery-com/primecutsnursery-com-business/)
+- [DeliveryQuote](https://apis.io/schemas/primecutsnursery-com/primecutsnursery-com-delivery-quote/)
+- [Inventory](https://apis.io/schemas/primecutsnursery-com/primecutsnursery-com-inventory/)
+- [Locations](https://apis.io/schemas/primecutsnursery-com/primecutsnursery-com-locations/)
+- [StrainDetail](https://apis.io/schemas/primecutsnursery-com/primecutsnursery-com-strain-detail/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Primecutsnursery Com Context](https://apis.io/jsonld/primecutsnursery-com/primecutsnursery-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Prime Cuts Nursery API Rules](https://apis.io/rules/primecutsnursery-com/primecutsnursery-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Prime Cuts Nursery Domain Security](https://apis.io/security/primecutsnursery-com/primecutsnursery-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Prime Cuts Nursery Plans Pricing](https://apis.io/plans/primecutsnursery-com/primecutsnursery-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://primecutsnursery.com/)
+- [Getting started](https://www.primecutsnursery.com/onboarding)
+- [API reference](https://www.primecutsnursery.com/developers)
+- [Privacy policy](https://www.primecutsnursery.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 39.5** — developing · rubric 0.28.0 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 58.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 31.5 |
+
+**Agent readiness 30.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 8.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/primecutsnursery-com/](https://apis.io/providers/primecutsnursery-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Prime Cuts Nursery: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/primecutsnursery-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
